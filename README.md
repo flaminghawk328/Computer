@@ -1,4 +1,4 @@
 # Computer
-Ms. Williams is scary
+Ms. Williams is scary.
 
 
